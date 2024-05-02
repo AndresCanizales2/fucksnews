@@ -1,0 +1,2 @@
+# fucksnews
+Web fucksnews
